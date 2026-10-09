@@ -1,0 +1,13 @@
+@use "../abstracts/variables" as v;
+
+
+.l-container {
+    width: 100%;
+    margin: 0 auto;
+    padding-left: v.$spacer;
+    padding-right: v.$spacer;
+}
+
+.l-grid-2cols {
+    
+}
